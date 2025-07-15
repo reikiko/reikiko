@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kiko Reiki
 - 👀 I’m interested in Web Development, also Data Analysis
-- 💻 I’m currently working as Frontend Developer at Bank BJB Syariah
+- 💻 I’m currently open for new opportunity!
 - 📫 How to reach me : muhammad.mk901@gmail.com
 
 <!---
